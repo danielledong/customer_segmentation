@@ -25,8 +25,9 @@ Optimize Marketing Strategies: Develop targeted marketing campaigns for each cus
   Identified customer segments based on income levels, purchase behavior, and engagement metrics.
 
   Partitioned customers into distinct clusters for targeted analysis.
+  ![Clusters](kmeans_4.png)
 
-  ![Clusters](kmeans.png)
+  Based on the result from Elbow Method, k=4 would be the optimal number of clusters for this data
 
 - **Hierarchical Clustering (dendogram visualisation):**
   
