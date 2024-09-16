@@ -18,19 +18,19 @@ Optimize Marketing Strategies: Develop targeted marketing campaigns for each cus
 ## **Clustering Methods** 
 ![Clusters](3d-plot.png)
 
-- K-Means Clustering:
+- **K-Means Clustering:**
 
 Identified customer segments based on income levels, purchase behavior, and engagement metrics.
 
 Partitioned customers into distinct clusters for targeted analysis.
 
-- Hierarchical Clustering (dendogram visualisation):
+- **Hierarchical Clustering (dendogram visualisation):**
   
 Validated K-Means results and explored hierarchical relationships within the data.
 
 Provided insights into the nested structure of customer segments.
 
-- Silhouette, Calinski-Harabasz Index , Davies-Bouldin Index Analysis:
+- **Silhouette, Calinski-Harabasz Index , Davies-Bouldin Index Analysis:**
 
 Assessed clustering quality and determined the optimal number of clusters.
 
@@ -42,16 +42,18 @@ Evaluated intra-cluster similarity compared to inter-cluster similarity.
 
 - Characteristics: Highest income, significant purchase variability, high engagement with marketing campaigns.
 - Marketing Focus: Premium products, in-store and catalog promotions.
-
+![Clusters](c1.png)
 
 ## **Cluster 2: Moderate Income, Deal-Oriented Shoppers**
 
 - Characteristics: Moderate income, active in online and deal-based purchases, moderate marketing engagement.
 - Marketing Focus: Online deals, targeted digital campaigns.
+![Clusters](c2.png)
 
 ## **Cluster 0: Low Income, Low Engagement**
 - Characteristics: Lowest income, minimal purchases, low engagement with marketing campaigns.
 - Marketing Focus: Family-oriented products, value-driven promotions.
+![Clusters](c0.png)
 
 # **Implementation Plan**
 
