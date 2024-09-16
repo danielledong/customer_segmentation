@@ -37,6 +37,8 @@ Assessed clustering quality and determined the optimal number of clusters.
 Evaluated intra-cluster similarity compared to inter-cluster similarity.
 
 # **Cluster Profiles**
+![Clusters](clusters_seg.png)
+
 
 ## **Cluster 1: High Income, High Engagement**
 
