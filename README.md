@@ -48,14 +48,14 @@ Optimize Marketing Strategies: Develop targeted marketing campaigns for each cus
   
   Confirm whether the chosen number of clusters provides a meaningful and effective partitioning of your data.
 
-  ![Clusters](clusters-dist.png)
+  ![Clusters](clusters_dist.png)
 
   ![Clusters](deals.png)
   
   ![Clusters](campaigns.png)
 
 * **Conclusion:**
-Although the elbow method initially suggested 5 clusters, the Silhouette score, Calinski-Harabasz Index , Davies-Bouldin Index scores, cluster distribution, and dendrogram analysis indicate that the optimal number of clusters is 3. This choice yields the highest Silhouette and Calinski-Harabasz scores, along with the lowest Davies-Bouldin score, confirming better clustering performance. 
+Although the elbow method initially suggested 6 clusters, the Silhouette score, Calinski-Harabasz Index , Davies-Bouldin Index scores, cluster distribution, and dendrogram analysis indicate that the optimal number of clusters is 3. This choice yields the highest Silhouette and Calinski-Harabasz scores, along with the lowest Davies-Bouldin score, confirming better clustering performance. 
 
 # **Cluster Profiles**
 ![Clusters](clusters_seg.png)
