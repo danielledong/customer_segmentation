@@ -23,21 +23,18 @@ Optimize Marketing Strategies: Develop targeted marketing campaigns for each cus
 - **K-Means Clustering:**
 
 Identified customer segments based on income levels, purchase behavior, and engagement metrics.
-
 Partitioned customers into distinct clusters for targeted analysis.
 
 - **Hierarchical Clustering (dendogram visualisation):**
 ![Clusters](hierachy.png)
   
 Validated K-Means results and explored hierarchical relationships within the data.
-
 Provided insights into the nested structure of customer segments.
 
 - **Silhouette, Calinski-Harabasz Index , Davies-Bouldin Index Analysis:**
-![Clusters](clusters-result.png)
+![Clusters](clusters-results.png)
 
 Assessed clustering quality and determined the optimal number of clusters.
-
 Evaluated intra-cluster similarity compared to inter-cluster similarity.
 
 * **Conclusion:**
