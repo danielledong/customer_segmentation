@@ -16,7 +16,7 @@ Optimize Marketing Strategies: Develop targeted marketing campaigns for each cus
 - Preprocessing: Cleaned and prepared data by handling missing values, outliers, transforming categorical data to numerical data, drop redundant columns, reduce data dimension
 
 ## **Clustering Methods** 
-![Clusters](images/3d-plot.png)
+![Clusters](3d-plot.png)
 
 - K-Means Clustering:
 
@@ -24,13 +24,13 @@ Identified customer segments based on income levels, purchase behavior, and enga
 
 Partitioned customers into distinct clusters for targeted analysis.
 
-- Hierarchical Clustering:
+- Hierarchical Clustering (dendogram visualisation):
   
 Validated K-Means results and explored hierarchical relationships within the data.
 
 Provided insights into the nested structure of customer segments.
 
-- Silhouette Analysis:
+- Silhouette, Calinski-Harabasz Index , Davies-Bouldin Index Analysis:
 
 Assessed clustering quality and determined the optimal number of clusters.
 
