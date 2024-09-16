@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-The project aims to analyze customer data to enhance marketing strategies through effective segmentation. By leveraging machine learning techniques, we identify distinct customer profiles and tailor marketing campaigns to improve engagement and drive sales. This project utilizes clustering methods to categorize customers based on their income, purchase behavior, and response to marketing campaigns.
+The project aims to analyze customer data to enhance marketing strategies through effective segmentation. By leveraging machine learning techniques, I identified distinct customer profiles and tailor marketing campaigns to improve engagement and drive sales. This project utilizes clustering methods (from Scikit-Learn) to categorize customers based on their income, purchase behavior, marital status, education and response to marketing campaigns.
 
 ## **Objectives**
 
