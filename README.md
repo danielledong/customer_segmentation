@@ -27,16 +27,21 @@ Identified customer segments based on income levels, purchase behavior, and enga
 Partitioned customers into distinct clusters for targeted analysis.
 
 - **Hierarchical Clustering (dendogram visualisation):**
+![Clusters](hierachy.png)
   
 Validated K-Means results and explored hierarchical relationships within the data.
 
 Provided insights into the nested structure of customer segments.
 
 - **Silhouette, Calinski-Harabasz Index , Davies-Bouldin Index Analysis:**
+![Clusters](clusters-result.png)
 
 Assessed clustering quality and determined the optimal number of clusters.
 
 Evaluated intra-cluster similarity compared to inter-cluster similarity.
+
+* **Conclusion:**
+Although the elbow method initially suggested 5 clusters, the test scores, cluster distribution, and dendrogram analysis indicate that the optimal number of clusters is 3. This choice yields the highest Silhouette and Calinski-Harabasz scores, along with the lowest Davies-Bouldin score, confirming better clustering performance. 
 
 # **Cluster Profiles**
 ![Clusters](clusters_seg.png)
