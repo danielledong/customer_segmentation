@@ -46,7 +46,7 @@ Evaluated intra-cluster similarity compared to inter-cluster similarity.
 - Marketing Focus: Premium products, in-store and catalog promotions.
 ![Clusters](c1.png)
 
-## **Cluster 2: Moderate Income, Deal-Oriented Shoppers**
+## **Cluster 2: Moderate Income, Deal-Oriented Shoppers, Loyal Customers**
 
 - Characteristics: Moderate income, active in online and deal-based purchases, moderate marketing engagement.
 - Marketing Focus: Online deals, targeted digital campaigns.
