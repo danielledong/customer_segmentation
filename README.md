@@ -1,8 +1,8 @@
-# **Customer Analysis and Marketing Optimization**
+# **Customer Segmentation and Marketing Strategies Optimization**
 
 ## **Project Overview**
 
-The "Customer Segmentation and Marketing Optimization" project aims to analyze customer data to enhance marketing strategies through effective segmentation. By leveraging machine learning techniques, we identify distinct customer profiles and tailor marketing campaigns to improve engagement and drive sales. This project utilizes clustering methods to categorize customers based on their income, purchase behavior, and response to marketing campaigns.
+The project aims to analyze customer data to enhance marketing strategies through effective segmentation. By leveraging machine learning techniques, we identify distinct customer profiles and tailor marketing campaigns to improve engagement and drive sales. This project utilizes clustering methods to categorize customers based on their income, purchase behavior, and response to marketing campaigns.
 
 ## **Objectives**
 
@@ -42,6 +42,7 @@ Evaluated intra-cluster similarity compared to inter-cluster similarity.
 
 - Characteristics: Highest income, significant purchase variability, high engagement with marketing campaigns.
 - Marketing Focus: Premium products, in-store and catalog promotions.
+
 
 ## **Cluster 2: Moderate Income, Deal-Oriented Shoppers**
 
